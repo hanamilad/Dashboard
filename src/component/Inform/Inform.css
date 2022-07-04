@@ -1,0 +1,15 @@
+.inform {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: calc(100% - 100px);
+  left: 100px;
+}
+@media screen and (max-width: 480px) {
+  .inform {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    top: 100px;
+  }
+}

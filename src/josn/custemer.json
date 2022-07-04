@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "name":"custemer1",
+        "price":100,
+        "payment":"Online payment"
+    },{
+        "id":2,
+        "name":"custemer2",
+        "price":250,
+        "payment":"Online payment"  
+    },{
+        "id":3,
+        "name":"custemer3",
+        "price":500,
+        "payment":"cash"
+    },{
+        "id":4,
+        "name":"custemer4",
+        "price":150,
+        "payment":"Online payment"
+    },{
+        "id":5,
+        "name":"custemer5",
+        "price":1004,
+        "payment":"cash"
+    },{
+        "id":6,
+        "name":"custemer6",
+        "price":700,
+        "payment":"cash"
+    }
+]
